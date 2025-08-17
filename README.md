@@ -31,16 +31,6 @@ Passionate about **clean code** and **human-centered design**, I love building i
 
 ---
 
-## 📌 Featured Projects
-- 🦠 **[COVID-19 Analysis (R)](https://github.com/Randa-Lakab/covid19-analysis-r)** → Data analysis & visualization with R + ggplot2.  
-- 💉 **[Anemia Analysis](https://github.com/Randa-Lakab/Anemia-Analysis)** → Medical dataset study with R Markdown.  
-- 🎓 **[College Management System](https://github.com/Randa-Lakab/College-Management-System-PFE)** → Education platform.  
-- 🤖 **[Flask Chatbot](https://github.com/Randa-Lakab/Flask-Chatbot)** → Chatbot AI with Python + Flask.  
-- 🌸 **[Iris Flower Classifier 3D](https://github.com/Randa-Lakab/Iris-flower-classifier-3D)** → ML & 3D visualization.  
-- 🎮 **[Pacman Game](https://github.com/Randa-Lakab/Pacman-Game)** → Fun implementation of Pacman.  
-
----
-
 ## 📊 GitHub Stats
 ![Randa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randa-Lakab&show_icons=true&theme=radical)  
 
