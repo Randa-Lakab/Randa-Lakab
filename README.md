@@ -26,7 +26,7 @@ Passionate about **clean code** and **human-centered design**, I love building i
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" width="40" height="40"/>
   
   <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40" style="background:white; border-radius:6px;"/>
   
   <!-- Outils Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
@@ -35,8 +35,8 @@ Passionate about **clean code** and **human-centered design**, I love building i
   <img src="https://img.icons8.com/color/48/000000/photopea.png" alt="Photopea" width="40" height="40"/>
   
   <!-- Versioning -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40" style="background:white; border-radius:50%; padding:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
