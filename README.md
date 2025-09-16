@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Randa LAKAB  
+# Hi
 
 **🎓 CS Student | 🎨 UI/UX & Front-end Dev | 🤖 AI Enthusiast**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 Passionate about **clean code** and **human-centered design**, I love building intuitive interfaces while exploring the potential of **AI**.  
  
 ---
@@ -41,12 +41,12 @@ Passionate about **clean code** and **human-centered design**, I love building i
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Randa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randa-Lakab&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randa-Lakab&layout=compact&theme=radical)  
 
 ---
 
-## ✨ Fun Quote
+##  Quote
 > *“Design is intelligence made visible.”* – Alina Wheeler
