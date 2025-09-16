@@ -1,4 +1,3 @@
-# Hi
 
 **🎓 CS Student | 🎨 UI/UX & Front-end Dev | 🤖 AI Enthusiast**
 
@@ -48,5 +47,4 @@ Passionate about **clean code** and **human-centered design**, I love building i
 
 ---
 
-##  Quote
 > *“Design is intelligence made visible.”* – Alina Wheeler
