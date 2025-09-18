@@ -1,5 +1,5 @@
 ## Hi,
-**🎓 CS Student | 🎨 UI/UX & Front-end Dev | 🤖 AI Enthusiast**
+** I'm a CS Student |  UI/UX designer & Front-end Dev |  AI Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randa-lakab-a351871b5/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/randalakab)
