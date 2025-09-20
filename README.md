@@ -12,7 +12,7 @@ Passionate about **clean code** and **human-centered design**, I love building i
  
 ---
 
-## 🔥 Tech Stack
+##  Tech Stack
 
 <p align="left">
   <!-- Langages -->
