@@ -11,38 +11,124 @@
 Passionate about **clean code** and **human-centered design**, I love building intuitive interfaces while exploring the potential of **AI**.  
  
 ---
-## Languages & Tools
+## 🚀 Languages & Tools
 
 <p align="left">
-  <!-- Langages -->
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" title="SQL" alt="SQL" width="40" height="40"/></a>
-
-  <!-- Frameworks -->
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40" style="background:white; border-radius:6px;"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>
-
-  <!-- Design & UI/UX -->
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
-  <a href="https://helpx.adobe.com/support/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/></a>
-  <a href="https://www.figma.com/figjam/" target="_blank"><img src="https://cdn.simpleicons.org/figma/F24E1E" title="FigJam" alt="FigJam" width="40" height="40"/></a>
-  <a href="https://balsamiq.com/" target="_blank"><img src="https://cdn.simpleicons.org/balsamiq/8A1E04" title="Balsamiq" alt="Balsamiq" width="40" height="40"/></a>
-  <a href="https://penpot.app/" target="_blank"><img src="https://cdn.simpleicons.org/penpot/000000" title="Penpot" alt="Penpot" width="40" height="40"/></a>
-  <a href="https://www.notion.so/" target="_blank"><img src="https://cdn.simpleicons.org/notion/000000" title="Notion" alt="Notion" width="40" height="40"/></a>
-
-  <!-- Version Control -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+         alt="Python" width="40" height="40" title="Python"/>
+  </a>
+  
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" 
+         alt="R" width="40" height="40" title="R"/>
+  </a>
+  
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+         alt="HTML5" width="40" height="40" title="HTML5"/>
+  </a>
+  
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+         alt="CSS3" width="40" height="40" title="CSS3"/>
+  </a>
+  
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+         alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  </a>
+  
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+         alt="TypeScript" width="40" height="40" title="TypeScript"/>
+  </a>
+  
+  <!-- PHP -->
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+         alt="PHP" width="40" height="40" title="PHP"/>
+  </a>
+  
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+         alt="React" width="40" height="40" title="React"/>
+  </a>
+  
+  <!-- Figma -->
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
+         alt="Figma" width="40" height="40" title="Figma"/>
+  </a>
+  
+  <!-- Adobe XD -->
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" 
+         alt="Adobe XD" width="40" height="40" title="Adobe XD"/>
+  </a>
+  
+  <!-- Adobe Illustrator -->
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" 
+         alt="Illustrator" width="40" height="40" title="Adobe Illustrator"/>
+  </a>
+  
+  <!-- Adobe Photoshop -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" 
+         alt="Photoshop" width="40" height="40" title="Adobe Photoshop"/>
+  </a>
+  
+  <!-- Blender -->
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" 
+         alt="Blender" width="40" height="40" title="Blender"/>
+  </a>
+  
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+         alt="Git" width="40" height="40" title="Git"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         alt="GitHub" width="40" height="40" title="GitHub"/>
+  </a>
+  
+  <!-- Notion -->
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" 
+         alt="Notion" width="40" height="40" title="Notion"/>
+  </a>
+  
+  <!-- Penpot -->
+  <a href="https://penpot.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/penpot.svg" 
+         alt="Penpot" width="40" height="40" title="Penpot"/>
+  </a>
+  
+  <!-- FigJam -->
+  <a href="https://figma.com/figjam/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" 
+         alt="FigJam" width="40" height="40" title="FigJam"/>
+  </a>
+  
+  <!-- Balsamiq (custom logo in repo) -->
+  <a href="https://balsamiq.com/" target="_blank">
+    <img src="assets/logos/balsamiq.svg" 
+         alt="Balsamiq" width="40" height="40" title="Balsamiq"/>
+  </a>
 </p>
+
 ---
 
 ##  GitHub Stats
