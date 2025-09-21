@@ -12,7 +12,7 @@ Passionate about **clean code** and **human-centered design**, I love building i
  
 ---
 
-##  Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <!-- Langages -->
@@ -25,9 +25,33 @@ Passionate about **clean code** and **human-centered design**, I love building i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" width="40" height="40"/>
   
-  <!-- Frameworks / Backend / Frontend -->
+  <!-- Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40" style="background:white; border-radius:6px;"/>
 </p>
+
+---
+
+## 📊 Data Science / ML / DL
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br>Matplotlib</td>
+      <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/><br>Seaborn</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40"/><br>SciPy</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40"/><br>scikit-learn</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
+      <td><img src="https://keras.io/img/logo.png" width="40"/><br>Keras</td>
+      <td><img src="https://images.plotly.com/logo/new-branding/plotly-logomark.png" width="40"/><br>Plotly</td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -38,22 +62,7 @@ Passionate about **clean code** and **human-centered design**, I love building i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="SciPy" width="40" height="40"/>
-</p>
-
   
-  <!-- Outils Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/photopea.png" alt="Photopea" width="40" height="40"/>
-  
-  <!-- Versioning -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40" style="background:white; border-radius:50%; padding:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
 
 ---
 
