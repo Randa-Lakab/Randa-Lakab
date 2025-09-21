@@ -35,7 +35,6 @@ Passionate about **clean code** and **human-centered design**, I love building i
 </p>
 
 ---
-
 ##  GitHub Stats
 ![Randa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randa-Lakab&show_icons=true&theme=radical)  
 
