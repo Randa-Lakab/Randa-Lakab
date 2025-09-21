@@ -35,7 +35,7 @@ Passionate about **clean code** and **human-centered design**, I love building i
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Adobe Photoshop" width="40" height="40"/>
 </p>
 
