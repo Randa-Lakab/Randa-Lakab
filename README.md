@@ -11,7 +11,7 @@
 Passionate about **clean code** and **human-centered design**, I love building intuitive interfaces while exploring the potential of **AI**.  
  
 ---
-##  Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <!-- Langages -->
@@ -24,15 +24,22 @@ Passionate about **clean code** and **human-centered design**, I love building i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" width="40" height="40"/>
   
-  <!-- Frameworks -->
+  <!-- Frameworks & Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40" style="background:white; border-radius:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 
+  <!-- Design & UI/UX -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Adobe Photoshop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/figjam-1.svg" alt="FigJam" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/balsamiq.svg" alt="Balsamiq" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/penpot.svg" alt="Penpot" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/notion-logo-3.svg" alt="Notion" width="40" height="40"/>
 
+  <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
