@@ -27,7 +27,6 @@ Passionate about **clean code** and **human-centered design**, I love building i
   </a>
   
   <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
          alt="HTML5" width="40" height="40" title="HTML5"/>
   </a>
@@ -122,11 +121,7 @@ Passionate about **clean code** and **human-centered design**, I love building i
          alt="FigJam" width="40" height="40" title="FigJam"/>
   </a>
   
-  <!-- Balsamiq (custom logo in repo) -->
-  <a href="https://balsamiq.com/" target="_blank">
-    <img src="assets/logos/balsamiq.svg" 
-         alt="Balsamiq" width="40" height="40" title="Balsamiq"/>
-  </a>
+ 
 </p>
 
 ---
