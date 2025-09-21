@@ -33,11 +33,11 @@ Passionate about **clean code** and **human-centered design**, I love building i
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Adobe Photoshop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+  <img src="assets/logos/blender.svg" alt="Blender" width="40" height="40"/>
   <img src="assets/logos/figjam.svg" alt="FigJam" width="40" height="40"/>
-<img src="assets/logos/balsamiq.svg" alt="Balsamiq" width="40" height="40"/>
-<img src="assets/logos/penpot.svg" alt="Penpot" width="40" height="40"/>
-<img src="assets/logos/notion.svg" alt="Notion" width="40" height="40"/>
+  <img src="assets/logos/balsamiq.svg" alt="Balsamiq" width="40" height="40"/>
+  <img src="assets/logos/penpot.svg" alt="Penpot" width="40" height="40"/>
+  <img src="assets/logos/notion.svg" alt="Notion" width="40" height="40"/>
 
   <!-- Version Control -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
