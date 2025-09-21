@@ -11,8 +11,7 @@
 Passionate about **clean code** and **human-centered design**, I love building intuitive interfaces while exploring the potential of **AI**.  
  
 ---
-
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="left">
   <!-- Langages -->
@@ -28,27 +27,6 @@ Passionate about **clean code** and **human-centered design**, I love building i
   <!-- Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40" style="background:white; border-radius:6px;"/>
 </p>
-
----
-
-## 📊 Data Science / ML / DL
-
-<p align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/><br>Matplotlib</td>
-      <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/><br>Seaborn</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40"/><br>SciPy</td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40"/><br>scikit-learn</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
-      <td><img src="https://keras.io/img/logo.png" width="40"/><br>Keras</td>
-      <td><img src="https://images.plotly.com/logo/new-branding/plotly-logomark.png" width="40"/><br>Plotly</td>
-    </tr>
-</p>
-
 
 ---
 
