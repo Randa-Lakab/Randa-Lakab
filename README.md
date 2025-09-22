@@ -40,6 +40,8 @@ Passionate about **clean code** and **human-centered design**, I love building i
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randa-Lakab&layout=compact&theme=radical)  
 
+https://github-readme-streak-stats.herokuapp.com/?user=Randa-Lakab&theme=radical
 ---
+
 
 > *“Design is intelligence made visible.”* – Alina Wheeler
