@@ -21,25 +21,24 @@
 
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/randa_lakab/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" alt="Reddit" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit" width="40" height="40"/>
   </a>
 
   <!-- Discord -->
   <a href="https://discord.gg/ebXwq5PN" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="40" height="40"/>
   </a>
 
   <!-- Blogger -->
   <a href="https://www.blogger.com/profile/15745774904541617435" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blogger/blogger-original.svg" alt="Blogger" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/blogger/FF5722" alt="Blogger" width="40" height="40"/>
   </a>
 
   <!-- Twitter (X) -->
   <a href="https://x.com/randa_lakab" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
