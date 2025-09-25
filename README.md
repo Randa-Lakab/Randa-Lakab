@@ -1,9 +1,45 @@
 ## Hi,
 **I'm a CS Student |  UI/UX designer & Front-end Dev |  AI Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randa-lakab-a351871b5/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/randalakab)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Randa-Lakab)
+##  Socials
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/randa-lakab-a351871b5/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <!-- Behance -->
+  <a href="https://www.behance.net/randalakab" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Randa-Lakab" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <!-- Reddit -->
+  <a href="https://www.reddit.com/user/randa_lakab/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" alt="Reddit" width="40" height="40"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.gg/ebXwq5PN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+  </a>
+
+  <!-- Blogger -->
+  <a href="https://www.blogger.com/profile/15745774904541617435" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blogger/blogger-original.svg" alt="Blogger" width="40" height="40"/>
+  </a>
+
+  <!-- Twitter (X) -->
+  <a href="https://x.com/randa_lakab" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
