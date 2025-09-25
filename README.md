@@ -13,12 +13,7 @@
   <a href="https://www.behance.net/randalakab" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="40" height="40"/>
   </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/Randa-Lakab" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-
+  
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/randa_lakab/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank">
     <img src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit" width="40" height="40"/>
