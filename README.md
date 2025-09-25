@@ -73,5 +73,8 @@ Passionate about **clean code** and **human-centered design**, I love building i
 
 ---
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Randa-Lakab&row=2&column=7)
+
+---
 
 > *“Design is intelligence made visible.”* – Alina Wheeler
