@@ -72,17 +72,8 @@ Passionate about **clean code** and **human-centered design**, I love building i
 
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Randa-Lakab&layout=compact&theme=radical&custom_title=Languages%20Used)
  
-
----
-
-## 📈 Contributions
 ![Randa's GitHub streak](https://streak-stats.demolab.com?user=Randa-Lakab&theme=radical)
 
-## 🚀 Langages utilisés
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randa-Lakab&layout=compact&theme=radical)
-
-##  Recent Activity Graph
-![Randa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Randa-Lakab&theme=github)
-
+---
 
 > *“Design is intelligence made visible.”* – Alina Wheeler
