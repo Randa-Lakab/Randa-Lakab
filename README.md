@@ -75,4 +75,8 @@ Passionate about **clean code** and **human-centered design**, I love building i
 
 ---
 
+##  Recent Activity Graph
+![Randa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Randa-Lakab&theme=github)
+
+
 > *“Design is intelligence made visible.”* – Alina Wheeler
