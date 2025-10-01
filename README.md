@@ -1,7 +1,7 @@
 ## Hi,
 **I'm a CS Student |  UI/UX designer & Front-end Dev |  AI Enthusiast**
 
-##  Socials
+## My Networks
 
 <p align="left">
   <!-- LinkedIn -->
@@ -32,6 +32,11 @@
   <!-- Twitter (X) -->
   <a href="https://x.com/randa_lakab" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000" alt="X (Twitter)" width="40" height="40"/>
+  </a>
+
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/22951480/randa-lakab?tab=profile" target="_blank">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F48024" alt="Stack Overflow" width="40" height="40"/>
   </a>
 </p>
 
