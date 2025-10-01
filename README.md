@@ -13,6 +13,11 @@
   <a href="https://www.behance.net/randalakab" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="40" height="40"/>
   </a>
+
+   <!-- Dribbble -->
+  <a href="https://dribbble.com/randa_lakab" target="_blank">
+    <img src="https://cdn.simpleicons.org/dribbble/ea4c89" alt="Dribbble" width="40" height="40"/>
+  </a>
   
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/randa_lakab/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank">
