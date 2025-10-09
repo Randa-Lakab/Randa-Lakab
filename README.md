@@ -89,6 +89,6 @@ Passionate about **clean code** and **human-centered design**, I love building i
  
 ![Randa's GitHub streak](https://streak-stats.demolab.com?user=Randa-Lakab&theme=radical)
 
----
+--
 
 > *“Design is intelligence made visible.”* – Alina Wheeler
