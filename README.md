@@ -1,5 +1,5 @@
 ## Hi,
-**I'm a CS Student |  UI/UX designer & Front-end Dev |  AI Enthusiast**
+**I'm a CS Student |  UI/UX designer & Front-end Dev |  AI Enthusiast
 
 ## My Networks
 
