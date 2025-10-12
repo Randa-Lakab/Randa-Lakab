@@ -1,5 +1,4 @@
 ## Hi,
-I'm a CS Student 
 
 ## My Networks
 
