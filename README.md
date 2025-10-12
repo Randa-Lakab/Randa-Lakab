@@ -1,7 +1,5 @@
 ## Hi,
 
-## My Networks
-
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/randa-lakab-4b9125389/" target="_blank">
