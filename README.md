@@ -81,7 +81,7 @@ Passionate about **clean code** and **human-centered design**, I love building i
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" alt="FigJam" width="40" height="40" title="FigJam"/>
 </p>
 
----
+
 ##  GitHub Stats
 ![Randa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randa-Lakab&show_icons=true&theme=radical)  
 
