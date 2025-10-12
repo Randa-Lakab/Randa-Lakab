@@ -1,5 +1,5 @@
 ## Hi,
-I'm a CS Student |  UI/UX designer
+I'm a CS Student 
 
 ## My Networks
 
