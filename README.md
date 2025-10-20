@@ -74,7 +74,9 @@ Passionate about **clean code** and **human-centered design**, I love building i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" title="Blender"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
-  src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" alt="Notion" width="40" height="40" title="Notion"/>
+  
+ title="Notion"/>
+
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/penpot.svg" alt="Penpot" width="40" height="40" title="Penpot"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" alt="FigJam" width="40" height="40" title="FigJam"/>
 </p>
