@@ -44,6 +44,11 @@
   <a href="https://stackoverflow.com/users/22951480/randa-lakab?tab=profile" target="_blank">
     <img src="https://cdn.simpleicons.org/stackoverflow/F48024" alt="Stack Overflow" width="40" height="40"/>
   </a>
+
+   <!-- Hugging Face -->
+  <a href="https://huggingface.co/randalakab" target="_blank">
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="40" height="40"/>
+  </a>
 </p>
 
 
