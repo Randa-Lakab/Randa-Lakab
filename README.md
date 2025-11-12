@@ -49,6 +49,11 @@
   <a href="https://huggingface.co/randalakab" target="_blank">
     <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="40" height="40"/>
   </a>
+  
+  <!-- Bluesky -->
+<a href="https://bsky.app/profile/lakabranda.bsky.social" target="_blank">
+  <img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="40" height="40"/>
+</a>
 </p>
 
 
