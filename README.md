@@ -94,6 +94,7 @@ Passionate about **clean code** and **human-centered design**, I love building i
 ###  Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randa-Lakab&layout=donut&theme=radical)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Randa-Lakab&theme=redical)
 
  
 ![Randa's GitHub streak](https://streak-stats.demolab.com?user=Randa-Lakab&theme=radical)
