@@ -7,13 +7,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  <!-- Email -->
-<a href="mailto:randa.lakab9711@etu.univ-setif.dz">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-       alt="Email"
-       width="40"
-       height="40"/>
-</a>
+   <!-- Email -->
+  <a href="mailto:randa.lakab9711@etu.univ-setif.dz">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/gmail-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  
   <!-- Dev.to -->
   <a href="https://dev.to/randa_lakab" target="_blank">
     <img src="https://cdn.simpleicons.org/devdotto/0A0A0A" alt="Dev.to" width="40" height="40"/>
