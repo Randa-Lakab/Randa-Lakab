@@ -84,6 +84,22 @@ Passionate about **clean code** and **human-centered design**, I love building i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" title="Blender"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/penpot.svg" alt="Penpot" width="40" height="40" title="Penpot"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" alt="FigJam" width="40" height="40" title="FigJam"/>
+  <!-- Runway ML -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/runway.svg"
+     alt="Runway ML" width="40" height="40" title="Runway ML"/>
+
+<!-- Maze -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maze.svg"
+     alt="Maze" width="40" height="40" title="Maze Design"/>
+
+<!-- Adobe Firefly -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg"
+     alt="Adobe Firefly" width="40" height="40" title="Adobe Firefly"/>
+
+<!-- Figma Make -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+     alt="Figma Make" width="40" height="40" title="Figma Make"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
 </p>
