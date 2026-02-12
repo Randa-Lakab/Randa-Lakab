@@ -58,10 +58,6 @@
 </p>
 
 
-## About Me
-Passionate about **clean code** and **human-centered design**, I love building intuitive interfaces while exploring the potential of **AI**.  
- 
-
 ## Languages & Tools
 
 <p align="left">
