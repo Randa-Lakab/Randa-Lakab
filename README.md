@@ -61,8 +61,9 @@
   <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" alt="Weights & Biases" width="30" height="30"/>
 </a>
 
+<!-- Tableau -->
 <a href="https://public.tableau.com/app/profile/randa.lakab/vizzes" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/tableau.svg"
        alt="Tableau" width="40" height="40"/>
 </a>
 
