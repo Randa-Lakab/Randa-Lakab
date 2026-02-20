@@ -69,7 +69,7 @@
 
 <!-- Kaggle -->
 <a href="https://www.kaggle.com/randalakab" target="_blank">
-  <img src="https://cdn.simpleicons.org/kaggle/0285FF" alt="Kaggle" width="20" height="50"/>
+  <img src="https://cdn.simpleicons.org/kaggle/0285FF" alt="Kaggle" width="50" height="50"/>
 </a>
 
 </p>
