@@ -56,9 +56,14 @@
   <img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="40" height="40"/>
 </a>
 
-<!-- Kaggle -->
+ <!-- Kaggle -->
 <a href="https://www.kaggle.com/randalakab" target="_blank">
   <img src="https://cdn.simpleicons.org/kaggle/0285FF" alt="Kaggle" width="40" height="40"/>
+</a>
+
+<!-- Weights & Biases -->
+<a href="https://wandb.ai/profile/lakabranda" target="_blank">
+  <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" alt="Weights & Biases" width="40" height="40"/>
 </a>
 </p>
 
