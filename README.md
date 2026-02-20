@@ -55,6 +55,11 @@
 <a href="https://bsky.app/profile/lakabranda.bsky.social" target="_blank">
   <img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="40" height="40"/>
 </a>
+
+<!-- Kaggle -->
+<a href="https://www.kaggle.com/randalakab" target="_blank">
+  <img src="https://cdn.simpleicons.org/kaggle/0285FF" alt="Kaggle" width="40" height="40"/>
+</a>
 </p>
 
 
