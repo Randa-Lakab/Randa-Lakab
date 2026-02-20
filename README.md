@@ -62,7 +62,8 @@
 </a>
 
 <!-- Tableau Public -->
-<a href="https://public.tableau.com/app/profile/randa.lakab/vizzes" target="_blank">
+
+<a href="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" target="_blank">
   <img src="assets/tableau.svg" alt="Tableau Public" width="40" height="40"/>
 </a>
 
