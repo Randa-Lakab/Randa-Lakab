@@ -65,6 +65,11 @@
 <a href="https://wandb.ai/profile/lakabranda" target="_blank">
   <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" alt="Weights & Biases" width="40" height="40"/>
 </a>
+
+<!-- Tableau Public -->
+<a href="https://public.tableau.com/app/profile/randa.lakab/vizzes" target="_blank">
+  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="40" height="40"/>
+</a>
 </p>
 
 
@@ -93,7 +98,6 @@
   <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/runway.svg" alt="Runway AI" width="40" height="40" title="Runway AI"/>
  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/adobefirefly.svg" alt="Adobe Firefly" width="40" height="40" title="Adobe Firefly"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
 </p>
 
 
