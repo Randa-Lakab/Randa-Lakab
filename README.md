@@ -61,17 +61,16 @@
   <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" alt="Weights & Biases" width="40" height="40"/>
 </a>
 
-<!-- Tableau Public -->
-
-<a href="https://public.tableau.com/app/profile/randa.lakab/vizzes" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Public" width="40" height="40"/>
-</a>
-
 <!-- Kaggle -->
 <a href="https://www.kaggle.com/randalakab" target="_blank">
   <img src="https://cdn.simpleicons.org/kaggle/0285FF" alt="Kaggle" width="50" height="50"/>
 </a>
 
+<!-- Tableau Public -->
+
+<a href="https://public.tableau.com/app/profile/randa.lakab/vizzes" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Public" width="40" height="40"/>
+</a>
 </p>
 
 
