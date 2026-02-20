@@ -56,20 +56,21 @@
   <img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="40" height="40"/>
 </a>
 
- <!-- Kaggle -->
-<a href="https://www.kaggle.com/randalakab" target="_blank">
-  <img src="https://cdn.simpleicons.org/kaggle/0285FF" alt="Kaggle" width="60" height="60"/>
-</a>
-
 <!-- Weights & Biases -->
 <a href="https://wandb.ai/profile/lakabranda" target="_blank">
-  <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" alt="Weights & Biases" width="20" height="20"/>
+  <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" alt="Weights & Biases" width="30" height="30"/>
 </a>
 
-<!-- Tableau Public -->
 <a href="https://public.tableau.com/app/profile/randa.lakab/vizzes" target="_blank">
-  <img src="https://cdn.simpleicons.org/tableau/E97627" alt="Tableau" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" 
+       alt="Tableau" width="40" height="40"/>
 </a>
+
+<!-- Kaggle -->
+<a href="https://www.kaggle.com/randalakab" target="_blank">
+  <img src="https://cdn.simpleicons.org/kaggle/0285FF" alt="Kaggle" width="40" height="40"/>
+</a>
+
 </p>
 
 
