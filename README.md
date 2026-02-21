@@ -113,4 +113,4 @@
 ![Randa's GitHub streak](https://streak-stats.demolab.com?user=Randa-Lakab&theme=radical)
 
 
-> *“Design is intelligence made visible.”* – Alina Wheeler
+
