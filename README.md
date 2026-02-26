@@ -12,6 +12,11 @@
     <img src="https://cdn.simpleicons.org/devdotto/0A0A0A" alt="Dev.to" width="40" height="40"/>
   </a>
 
+  <!-- Medium -->
+  <a href="https://medium.com/@lakabranda" target="_blank">
+    <img src="https://cdn.simpleicons.org/Medium/0A0A0A" alt="Medium" width="40" height="40"/>
+  </a>
+
   <!-- Behance -->
   <a href="https://www.behance.net/randalakab" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="40" height="40"/>
