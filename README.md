@@ -110,7 +110,7 @@
 ###  Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randa-Lakab&layout=donut&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Randa-Lakab&theme=radical)
+![trophy](https://github-trophies.vercel.app/?username=Randa-Lakab&theme=radical)
  
 ![Randa's GitHub streak](https://streak-stats.demolab.com?user=Randa-Lakab&theme=radical)
 
